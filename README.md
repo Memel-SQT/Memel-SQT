@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Noa, vibe codeur" width="100%" />
+<img src="banner.svg" alt="Noa, vibe codeur" width="100%" />
 
 </div>
 
@@ -20,7 +20,7 @@ Je suis **vibe codeur** 🤖 : je construis des applications en pilotant une IA 
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 # 🧠 MON OUTIL N°1
 
@@ -29,7 +29,7 @@ Je suis **vibe codeur** 🤖 : je construis des applications en pilotant une IA 
 >
 > C'est **lui qui écrit l'essentiel de mon code**. Je décris ce que je veux, il construit, je teste et je valide. Tout le reste de cette page, ce sont les technos qu'il utilise avec moi.
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 # 🧰 MES TECHNOS
 
@@ -49,7 +49,7 @@ Je suis **vibe codeur** 🤖 : je construis des applications en pilotant une IA 
 | **Tailwind CSS** | Le style et l'identité visuelle | Des tokens de design partagés pour garder la même ambiance partout |
 | **Next.js** | Mes sites et apps web | Pages, API et rendu serveur au même endroit |
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🖥️ Applications de bureau
 
@@ -60,7 +60,7 @@ Je suis **vibe codeur** 🤖 : je construis des applications en pilotant une IA 
 | **Electron** | Mes apps installables sur Windows | Transformer une app web en vrai logiciel, avec mises à jour automatiques |
 | **Tauri + Rust** | Un lanceur d'apps de bureau | Beaucoup plus léger qu'Electron, rapide et sûr |
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🗄️ Données et back-end
 
@@ -73,7 +73,7 @@ Je suis **vibe codeur** 🤖 : je construis des applications en pilotant une IA 
 | **Node.js** | Faire tourner le JavaScript hors du navigateur | Le même langage partout, du front au back |
 | **Python** | Un bot Discord | Parfait pour les scripts et les bots |
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🧪 Tests et qualité
 
@@ -87,7 +87,7 @@ Je suis **vibe codeur** 🤖 : je construis des applications en pilotant une IA 
 | **Playwright** | Simuler un vrai utilisateur | Détecter les bugs que les tests simples ne voient pas |
 | **ESLint** | Relire le code automatiquement | Repérer les erreurs avant qu'elles arrivent chez l'utilisateur |
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🚢 Livraison
 
@@ -101,7 +101,7 @@ Je suis **vibe codeur** 🤖 : je construis des applications en pilotant une IA 
 | **Docker** | Déployer mes services | Le même environnement partout, un déploiement reproductible |
 | **Gitea** | Héberger mes dépôts chez moi | Garder le contrôle de mon code |
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🧫 Infra et homelab
 
@@ -116,7 +116,7 @@ Je suis **vibe codeur** 🤖 : je construis des applications en pilotant une IA 
 | **Tailscale** | Relier mes machines entre elles | Un réseau privé simple, sans ouvrir de ports |
 | **Nginx** | Exposer mes services en HTTPS | Un point d'entrée propre et sécurisé |
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🗂️ Organisation
 
