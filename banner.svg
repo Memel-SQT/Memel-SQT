@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" role="img" aria-label="Noa, vibe codeur">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12122A"/>
+      <stop offset="1" stop-color="#1A1A2E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4C6EF5"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.15" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#4C6EF5" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#4C6EF5" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.9" cy="0.85" r="0.6">
+      <stop offset="0" stop-color="#A855F7" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1000" height="260" rx="28" fill="url(#bg)"/>
+  <rect width="1000" height="260" rx="28" fill="url(#glowA)"/>
+  <rect width="1000" height="260" rx="28" fill="url(#glowB)"/>
+  <g fill="#F2F3F8">
+    <circle cx="70" cy="48" r="1.6" opacity="0.8"/><circle cx="160" cy="210" r="1.2" opacity="0.6"/>
+    <circle cx="240" cy="30" r="1.4" opacity="0.7"/><circle cx="330" cy="225" r="1.8" opacity="0.5"/>
+    <circle cx="470" cy="22" r="1.2" opacity="0.6"/><circle cx="560" cy="238" r="1.4" opacity="0.7"/>
+    <circle cx="690" cy="40" r="1.8" opacity="0.8"/><circle cx="760" cy="205" r="1.2" opacity="0.5"/>
+    <circle cx="850" cy="28" r="1.4" opacity="0.7"/><circle cx="930" cy="120" r="1.6" opacity="0.8"/>
+    <circle cx="905" cy="226" r="1.2" opacity="0.6"/><circle cx="40" cy="150" r="1.4" opacity="0.6"/>
+  </g>
+  <circle cx="800" cy="130" r="64" fill="none" stroke="url(#accent)" stroke-width="3" opacity="0.55"/>
+  <ellipse cx="800" cy="130" rx="108" ry="26" fill="none" stroke="url(#accent)" stroke-width="3" opacity="0.55" transform="rotate(-18 800 130)"/>
+  <circle cx="800" cy="130" r="30" fill="url(#accent)"/>
+  <text x="70" y="140" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="92" font-weight="800" fill="url(#accent)">Noa</text>
+  <text x="74" y="188" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="500" fill="#F2F3F8">Vibe codeur · je pilote l'IA avec Claude Code</text>
+  <rect x="74" y="206" width="120" height="5" rx="2.5" fill="url(#accent)"/>
+</svg>
